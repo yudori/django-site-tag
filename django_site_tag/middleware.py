@@ -1,7 +1,7 @@
-from lib.utils import find_and_append_text, get_site_tag
+from django_site_tag.utils import find_and_append_text, get_site_tag
 
 
-class IndicatorMiddleware:
+class SiteTagMiddleware:
 
     BODY_TAG = '<body>'
     DEFAULT_CHARSET = 'utf-8'
