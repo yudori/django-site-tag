@@ -8,7 +8,7 @@ Django site tag allows you to set 'tags' on each page of your website to indicat
 ### Installation
 
 ```bash
-pip install git+https://github.com/yudori/django-site-tag.git
+pip install django_site_tag
 ```
 
 ### Setup
